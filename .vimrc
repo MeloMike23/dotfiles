@@ -1,4 +1,4 @@
 set ruler
 set title
 set number
-:colorscheme evening
+colorscheme industry
